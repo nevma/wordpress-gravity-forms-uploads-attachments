@@ -1,7 +1,7 @@
 
 === WordPress Gravity Forms uploads attachments ===
 
-Contributors:      nevma
+Contributors:      nevma, takisbig
 Tags:              comments, spam
 Requires at least: 4.0
 Tested up to:      4.8
@@ -20,6 +20,9 @@ Usually, when a WordPress Gravity Form has some file upload fields, then, when t
 Install it, activate it and you are good to go.
 
 == Changelog ==
+
+= 0.9.2 =
+* First commit with some real code in it.
 
 = 0.9 =
 * The first commit. Does nothing really. 
