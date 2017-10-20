@@ -1,1 +1,3 @@
 ## WordPress Gravity Forms uploads attachments
+
+Usually, when a WordPress Gravity Form has some file upload fields, then, when this form is submitted by end users, the files which have been uploaded along with the form are kept in a directory inside the WordPress installation. With this plugin they will be attached as email attachments into the notification emails which have been configured for each form. 
