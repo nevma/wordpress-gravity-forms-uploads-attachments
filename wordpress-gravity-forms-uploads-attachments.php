@@ -3,7 +3,7 @@
     /*
         Plugin Name: Gravity Forms uploads attachments
         Plugin URI:  https://github.com/nevma/wordpress-gravity-forms-uploads-attachments
-        Description: This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+        Description: Adds file uploads of WordPress Gravity Forms submissions as attachments to email notifications.
         Version:     0.9.1
         Author:      Nevma
         Author URI:  https://nevma.gr/
