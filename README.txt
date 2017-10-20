@@ -3,9 +3,9 @@
 
 Contributors:      nevma
 Tags:              comments, spam
-Requires at least: 4
+Requires at least: 4.0
 Tested up to:      4.8
-Stable tag:        0.9
+Stable tag:        0.9.1
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 
