@@ -43,6 +43,14 @@
 
 
 
+    // Global flag that controls whether the plugin should actually do what it does.
+
+    if ( ! defined( NVM_WPGFUA_ENABLED ) ) {
+        define( NVM_WPGFUA_ENABLED, 1 );
+    }
+
+
+
     /**
      * Adds file uploads as attachments to the notification of a form's submission. 
      */
