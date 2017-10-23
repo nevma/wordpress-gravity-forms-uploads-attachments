@@ -34,7 +34,7 @@
     // Do some security checks.
 
     if ( ! defined( 'WPINC' ) ) {
-    	die;
+        die;
     }
 
     if ( ! defined( 'ABSPATH' ) ) {
