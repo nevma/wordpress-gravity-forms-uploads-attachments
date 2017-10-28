@@ -6,9 +6,7 @@ Usually, when a WordPress Gravity Form contains file upload fields (single or mu
 
 ## Installation 
 
-Just like any other WordPress plugin, you simply need to upload it manually in the plugins folder and then activate it. Please use the master branch for this. 
-
-You can also install it via the [Github Updater](https://github.com/afragen/github-updater) plugin. 
+Just like any other WordPress plugin, you simply need to upload it manually in the plugins folder and then activate it. Please, use the master branch for this. You can also install it via the user interface of the [Github Updater](https://github.com/afragen/github-updater) plugin. 
 
 
 
@@ -20,6 +18,6 @@ The plugin is hosted in Github, so, in order for it to be able to be updated aut
 
 ## Settings
 
-This plugins works in the background for all notifications of all forms as soon as it is activated. 
+This plugins works in the backgroundand works by default on all notifications of all forms as soon as it is activated. 
 
-Some flags and hardcoded settings will eventually be provided in order for the developer to be able to adjust the plugin behaviour. 
+Some flags and hardcoded settings will eventually be provided, in order for the developer to be able to adjust the plugin behaviour. 
