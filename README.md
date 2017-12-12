@@ -18,6 +18,6 @@ The plugin is hosted in Github, so, in order for it to be able to be updated aut
 
 ## Settings
 
-This plugins works in the backgroundand works by default on all notifications of all forms as soon as it is activated. 
+This plugins works in the background and works by default on all notifications of all forms as soon as it is activated. 
 
 Some flags and hardcoded settings will eventually be provided, in order for the developer to be able to adjust the plugin behaviour. 
