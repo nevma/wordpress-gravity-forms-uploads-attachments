@@ -4,8 +4,8 @@
 Contributors:      nevma, takisbig
 Tags:              gravity forms, attachment, notification  
 Requires at least: 4.0
-Tested up to:      4.8
-Stable tag:        0.9.3
+Tested up to:      4.9
+Stable tag:        0.9.4
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -32,6 +32,9 @@ Make sure
 
 
 == Changelog ==
+
+= 0.9.4 =
+* Fixed global defined variable warning.
 
 = 0.9.3 =
 * Started adding flags and settings (hardcoded for the time being).
