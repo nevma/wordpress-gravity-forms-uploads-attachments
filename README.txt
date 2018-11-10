@@ -33,7 +33,7 @@ Install it, activate it and you are good to go.
 == Upgrade Notice ==
 
 = 0.9.3 =
-Make sure 
+Make sure flags are working as expected.
 
 
 
